@@ -1,0 +1,5 @@
+C:\Users\MorganEvans\source\repos\ConfigMan\ConfigMan\bin\Debug\ConfigMan.dll
+C:\Users\MorganEvans\source\repos\ConfigMan\ConfigMan\bin\Debug\ConfigMan.pdb
+C:\Users\MorganEvans\source\repos\ConfigMan\ConfigMan\obj\Debug\ConfigMan.csproj.CoreCompileInputs.cache
+C:\Users\MorganEvans\source\repos\ConfigMan\ConfigMan\obj\Debug\ConfigMan.dll
+C:\Users\MorganEvans\source\repos\ConfigMan\ConfigMan\obj\Debug\ConfigMan.pdb

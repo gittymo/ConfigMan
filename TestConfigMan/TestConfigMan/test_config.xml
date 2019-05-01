@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" ?>
+<ConfigMan version="1.0" moduleName="TheFixer" moduleVersion="1.0">
+	<DatabaseConnection keyAttr="name">
+		<Connection name="eform" server="DSDVL104" catalog="Eform-Server" username="ProcessFlowsAdminDv1" password="Px2#YwSwGC" />
+		<Connection name="onbase" server="DS2DVL104" catalog="OnbaseTst" username="hsi" password="98hV3J^7r" />
+	</DatabaseConnection>
+	<DBMapping keyAttr="onbaseType">
+		<DataType onbaseType="6" eformType="int" size="9"/>
+		<DataType onbaseType="1" eformType="int" size="20" />
+		<DataType onbaseType="4" eformType="datetime" />
+		<DataType onbaseType="9" eformType="datetime" />
+		<DataType onbaseType="3" eformType="decimal" size="20,2" />
+		<DataType onbaseType="11" eformType="decimal" size="20,2" interpretUsing="currencyformat,currencyformatnum" />
+		<DataType onbaseType="5" eformType="float" />
+		<DataType onbaseType="10" isRef="true" refLevels="1" />
+		<DataType onbaseType="2" isRef="true" refLevels="2" />
+	</DBMapping>
+</ConfigMan>

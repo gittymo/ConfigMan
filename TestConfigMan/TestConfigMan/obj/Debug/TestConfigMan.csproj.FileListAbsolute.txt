@@ -1,0 +1,9 @@
+C:\Users\MorganEvans\source\repos\TestConfigMan\TestConfigMan\bin\Debug\TestConfigMan.exe.config
+C:\Users\MorganEvans\source\repos\TestConfigMan\TestConfigMan\bin\Debug\TestConfigMan.exe
+C:\Users\MorganEvans\source\repos\TestConfigMan\TestConfigMan\bin\Debug\TestConfigMan.pdb
+C:\Users\MorganEvans\source\repos\TestConfigMan\TestConfigMan\bin\Debug\ConfigMan.dll
+C:\Users\MorganEvans\source\repos\TestConfigMan\TestConfigMan\bin\Debug\ConfigMan.pdb
+C:\Users\MorganEvans\source\repos\TestConfigMan\TestConfigMan\obj\Debug\TestConfigMan.csproj.CoreCompileInputs.cache
+C:\Users\MorganEvans\source\repos\TestConfigMan\TestConfigMan\obj\Debug\TestConfigMan.csproj.CopyComplete
+C:\Users\MorganEvans\source\repos\TestConfigMan\TestConfigMan\obj\Debug\TestConfigMan.exe
+C:\Users\MorganEvans\source\repos\TestConfigMan\TestConfigMan\obj\Debug\TestConfigMan.pdb
